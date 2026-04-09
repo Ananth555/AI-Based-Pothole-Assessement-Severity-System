@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Pothole']
+
+roboflow:
+  workspace: potholes-5jm1k
+  project: pothole-detection-65bcs
+  version: 1
+  license: Private
+  url: https://app.roboflow.com/potholes-5jm1k/pothole-detection-65bcs/1
