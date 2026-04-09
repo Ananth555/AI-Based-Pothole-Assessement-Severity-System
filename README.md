@@ -105,20 +105,6 @@ python detect.py
 
 ---
 
-## 🤝 Contribution
-
-Contributions are welcome! Feel free to fork this repository and submit a pull request.
-
----
-
-## 📧 Contact
-
-**Name:** Ananth Kumar
-**Role:** Data Analyst / ML Enthusiast
-**Email:** [your-email@example.com](mailto:your-email@example.com)
-
----
-
 ## ⭐ Acknowledgements
 
 * Roboflow for dataset tools
